@@ -1,2 +1,2 @@
-# Python-basics
-It's a repository of all the basic of Python I'd learned . 
+# python-basics
+ Python basics and practice programs as I learn Python.
